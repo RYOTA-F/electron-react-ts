@@ -3,3 +3,4 @@ release
 node_modules
 .env
 .DS_Store
+.commit
